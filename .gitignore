@@ -1,2 +1,6 @@
-resources/
 .ipynb_checkpoints/
+
+resources/cheatsheet.ipynb
+data/secrets.txt
+
+config.ini
