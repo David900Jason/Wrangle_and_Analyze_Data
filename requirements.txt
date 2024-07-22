@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+tweepy
+requests
+wordcloud
+nltk
+textblob
