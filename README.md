@@ -14,3 +14,5 @@ This project focuses on the whole process:
 And then, I was asked to investigate that dataset and perform the whole data analysis process under the guidance of my instructors. That was a great opportunity to apply the concepts I've learnt in the past 3 months.
 
 I submitted the project on 16/7/2024. And I got a perfect score on the fourth try.
+
+<img src="./assets/result.jpg" />
